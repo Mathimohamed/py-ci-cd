@@ -14,7 +14,7 @@ COPY . /usr/src/app
 # Application Environment variables
 
 #ENV APP_ENV development
-Run pip install flask 
+Run pip install flask
 
 # Exposing Ports
 EXPOSE 8000
