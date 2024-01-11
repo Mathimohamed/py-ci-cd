@@ -1,7 +1,6 @@
 ## Hello World Web Application
 Basic directory structure
-
- |----.github/workflows
+|----.github/workflows
  |----Dockerfile
  |----app.py
  Make the flask application run locally using python app.py. Tested the root  from the browser and got the expected response
