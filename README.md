@@ -20,20 +20,17 @@
 19. ## GIT-HUB ACTION WORKFLOW
 20. deploy.yml is used to execute CICD pipeline stages
  name: Python application
-
 on:
   push:
     branches: [ "main" ]
   pull_request:
     branches: [ "main" ]
-
 permissions:
   contents: read
-
 jobs:
   build:
 
-    runs-on: ubuntu-latest
+runs-on: ubuntu-latest
 
     steps:
     - uses: actions/checkout@v3
