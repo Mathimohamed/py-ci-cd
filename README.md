@@ -1,4 +1,4 @@
-![image](https://github.com/Mathimohamed/py-ci-cd/assets/151551076/929d454e-eacd-4009-96a6-0b4725b09fd7)## Hello World Web Application
+## HELLO WORLD APPLICATION
 2.Basic directory structure
 
 3. |----.github/workflows
@@ -46,6 +46,7 @@ runs-on: ubuntu-latest
     
       run: python python.py
    ## Final Output
+   ![image](https://github.com/Mathimohamed/py-ci-cd/assets/151551076/929d454e-eacd-4009-96a6-0b4725b09fd7)## Hello World Web Application
    
       
 
