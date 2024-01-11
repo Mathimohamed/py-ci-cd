@@ -1,5 +1,5 @@
 ## Hello World Web Application
-Basic directory structure
+2.Basic directory structure
 
  |----.github/workflows
  |----Dockerfile
